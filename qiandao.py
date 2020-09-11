@@ -4,7 +4,7 @@ import time
 headers = {
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36"
 }
-skey = 'SCU112948T8f1a1f8df0635cadde3c3d5904c122cc5f58e93c25346'  # 你的server酱skey
+skey = ''  # 你的server酱skey
 
 url = 'https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=24&filter=author&orderby=dateline&typeid=29'
 
